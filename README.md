@@ -1,4 +1,4 @@
-# MAIN - Infrastructure As Code
+# Terraform Core Task - Infrastructure As Code
 
 This repo defines the infrastructure code for development environent
 
