@@ -1,5 +1,9 @@
 # Terraform Core Task - Infrastructure As Code
 
+## Remote State
+
+For this task remote state will be stored locally as it is intended for demonstration purposes only. In an actualy environment, the remote state backend would be stored in an S3 bucket or in Terraform Cloud.
+
 This repo defines the infrastructure code for development environent
 
 - Cluster of application server instances
