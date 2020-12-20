@@ -8,12 +8,6 @@ variable "region" {
 	description = "AWS region."
 }
 
-variable "vpc_id" {
-	type				= string
-	default     = "us-west-2"
-	description = "Nonprod VPC ID"
-}
-
 ##################################################################################
 #  VERSION
 ##################################################################################
