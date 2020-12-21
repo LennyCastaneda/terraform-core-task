@@ -2,7 +2,7 @@
 
 ## Remote State
 
-For this task remote state will be stored locally as it is intended for demonstration purposes only. In an actualy environment, the remote state backend would be stored in an S3 bucket or in Terraform Cloud.
+For this coding task is intended for demonstration purposes only and it is assumed to use local remote state. In an actualy AWS environment, the remote state backend would be stored in an S3 bucket/DynamoDB table or in Terraform Cloud.
 
 This repo defines the infrastructure code for development environent
 
